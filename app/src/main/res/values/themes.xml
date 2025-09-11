@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NavigationDrawer" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#FFCC00</item>
+        <item name="colorPrimaryVariant">#E6B800</item>
+        <item name="android:statusBarColor">#FFCC00</item>
+    </style>
+
+    <style name="Theme.NavigationDrawer" parent="Base.Theme.NavigationDrawer" />
+
+</resources>

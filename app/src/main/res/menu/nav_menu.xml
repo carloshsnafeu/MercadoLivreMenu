@@ -6,34 +6,39 @@
     <group android:checkableBehavior="single">
 
         <item
-            android:id="@+id/nav_prime"
-            android:icon="@drawable/iccart"
-            android:title="Prime" />
+            android:id="@+id/nav_ofertas"
+            android:icon="@drawable/ic_ofertas"
+            android:title="Ofertas do dia" />
 
         <item
-            android:id="@+id/nav_fashion"
-            android:icon="@drawable/icfashion"
+            android:id="@+id/nav_supermercado"
+            android:icon="@drawable/ic_supermercado"
+            android:title="Supermercado" />
+
+        <item
+            android:id="@+id/nav_moda"
+            android:icon="@drawable/ic_moda"
             android:title="Moda" />
 
         <item
-            android:id="@+id/nav_eletronics"
-            android:icon="@drawable/iceletronics"
+            android:id="@+id/nav_eletronicos"
+            android:icon="@drawable/ic_eletronicos"
             android:title="Eletrônicos" />
 
         <item
-            android:id="@+id/nav_food"
-            android:icon="@drawable/icfood"
-            android:title="Alimentos" />
+            android:id="@+id/nav_casa"
+            android:icon="@drawable/ic_casa"
+            android:title="Casa e Móveis" />
 
         <item
-            android:id="@+id/nav_beauty"
-            android:icon="@drawable/icbeauty"
-            android:title="Beleza" />
+            android:id="@+id/nav_beleza"
+            android:icon="@drawable/ic_beleza"
+            android:title="Beleza e Cuidados Pessoais" />
 
         <item
-            android:id="@+id/nav_furniture"
-            android:icon="@drawable/icfurniture"
-            android:title="Móveis" />
+            android:id="@+id/nav_automotivo"
+            android:icon="@drawable/ic_automotivo"
+            android:title="Automotivo" />
 
     </group>
 </menu>

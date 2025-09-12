@@ -2,4 +2,7 @@
 <resources>
     <color name="yellow">#FFE600</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ml_yellow">#FFCC00</color>
+    <color name="ml_blue">#03264C</color>
+    <color name="ml_gray">#66000000</color>
 </resources>

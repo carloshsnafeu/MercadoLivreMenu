@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">NavigationDrawer</string>
     <string name="fab_add_description">Adicionar novo item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <!-- Necessárias para o DrawerToggle -->
+    <string name="nav_open">Abrir menu</string>
+    <string name="nav_close">Fechar menu</string>
 </resources>

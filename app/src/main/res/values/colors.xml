@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="yellow">#FFE600</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#002E6E</color>
     <color name="ml_yellow">#FFCC00</color>
     <color name="ml_blue">#03264C</color>
     <color name="ml_gray">#66000000</color>
+    <color name="mercado_livre_azul">#002E6E</color>
+
 </resources>

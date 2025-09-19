@@ -14,4 +14,11 @@
         android:textColor="@color/yellow"
         android:textSize="36sp" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Carlos Henrique Santos das Neves de Almeida Feu"
+        android:textAlignment="center"
+        android:gravity="center"/>
+
 </FrameLayout>
